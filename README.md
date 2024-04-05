@@ -4,32 +4,44 @@
 
 
 ## Team Name
-Name  
+Dugong🦭
 
 # Team Member
-Member 1 Github Link
+Sherin mary Rajee: https://github.com/sherin-11
 
-MEmber 2 Github Link
+
 
 ## Idea
-Breif Idea in two three sentences 
+A hostel finding and managanement app. A complete app which a student requires
 
 ## Features 
-1. 
+1. Select hostels from the list of all available hostel
+2. Feeback system
+3. payment of rents
+4. alert of paying bills
 
 ## Link to product walkthrough
-[link to video](Link Here)
+[[link to video]([Link Her](https://drive.google.com/file/d/109vB1diofCI4tOZh5zCmGZ9bBQ4TxAUu/view?usp=sharing)e)]
 
    
 ## Libraries used
-Library Name - Version
+MongoDb Compass- Database
+ReactJs-Frontend
+ExpressJs-API
+NodeJs- Backend
+
 
 
 ## How to configure
-Instructions for setting up project
+go to HiVE then to client directory inside that run this code: npm start(starts the frontend)
+in a new terminal run this code: nodemon server.js(to start the server)
+for database first connect the mongodb atlas link (by clicking on connect) then in mongodb comoass click on save and connect
+
 
 ## How to Run
-Instructions for running
+given above
 
 ## How to contribute ? 
-Features to implement 
+Implment a google map to show the exact location of hostel
+show nearby food places
+continue with the payment method 
